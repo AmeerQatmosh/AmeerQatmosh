@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ameer Qatmosh</h1>
-<h3 align="center">I'm Studying Software Engineering at An-Najah National University, Nablus, Palestine.</h3>
+<h1 align="center">Welcome to my GitHub Profile 👋 </h1>
+<h3 align="center">I'm Ameer Qatmosh, I'm Studying Software Engineering at An-Najah National University, Nablus, Palestine.</h3>
 
 📫 How to reach me: **ameerqsh@gmail.com**
 
